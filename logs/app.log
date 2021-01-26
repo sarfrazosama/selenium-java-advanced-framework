@@ -1,0 +1,106 @@
+09:02:39.188 INFO  base.CustomDriver -Clicked On :: Add New Button
+09:02:39.626 INFO  base.CustomDriver -Send Keys on element :: Customer Email with data :: apple212@gmail.com
+09:02:39.772 INFO  base.CustomDriver -Send Keys on element :: Customer Password with data :: fhe45644
+09:02:39.894 INFO  base.CustomDriver -Send Keys on element :: First Name with data :: Quincy
+09:02:40.024 INFO  base.CustomDriver -Send Keys on element :: Last Name with data :: Larson
+09:02:40.097 INFO  base.CustomDriver -Clicked On :: Male
+09:02:40.254 INFO  base.CustomDriver -Send Keys on element :: Company Name with data :: REDDINGTON
+09:02:46.017 INFO  base.CustomDriver -Clicked On :: Save Button
+09:48:16.365 INFO  base.CustomDriver -Send Keys on element :: User email with data :: admin@yourstore.com
+09:48:16.547 INFO  base.CustomDriver -Send Keys on element :: User Password with data :: admin
+09:48:16.567 INFO  base.CheckPoint -Clearing Results Hash Map
+09:48:26.667 ERROR base.CustomDriver -Element not found with: xpath=>/html/body/div[3]/div[2]/div/ul/li[3]/a
+09:48:26.671 ERROR base.CustomDriver -Cannot click on :: Sales Menu
+09:48:26.671 INFO  utilities.Util -Date and Time :: 01_25_2021 09_48_26
+09:48:27.097 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\Osma Bin Sarfraz\IdeaProjects\LetsKodeit//test-output/screenshots//_Click ERROR_01_25_2021 09_48_26.png
+09:48:39.463 ERROR base.CustomDriver -Element not found with: xpath=>/html/body/div[3]/div[2]/div/ul/li[3]/ul/li[1]/a
+09:48:39.463 ERROR base.CustomDriver -Cannot click on :: Order Menu Item
+09:48:39.463 INFO  utilities.Util -Date and Time :: 01_25_2021 09_48_39
+09:49:16.049 ERROR base.CustomDriver -Element not found with: link=>Logout
+09:49:16.051 ERROR base.CustomDriver -Cannot click on :: Logout Link
+09:49:16.052 INFO  utilities.Util -Date and Time :: 01_25_2021 09_49_16
+09:49:45.070 INFO  base.CustomDriver -Send Keys on element :: User email with data :: admin@yourstore.com
+09:49:45.221 INFO  base.CustomDriver -Send Keys on element :: User Password with data :: admin
+09:49:58.159 INFO  base.CustomDriver -Clicked On :: Login Button
+09:49:58.178 INFO  base.CheckPoint -Clearing Results Hash Map
+09:49:58.259 INFO  base.CustomDriver -Clicked On :: Sales Menu
+09:49:59.879 INFO  base.CustomDriver -Clicked On :: Order Menu Item
+09:50:00.082 INFO  base.CustomDriver -Clicked On :: Search Button
+09:50:01.684 ERROR base.CustomDriver -Cannot click on :: Logout Link
+09:50:01.686 INFO  utilities.Util -Date and Time :: 01_25_2021 09_50_01
+09:50:02.124 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\Osma Bin Sarfraz\IdeaProjects\LetsKodeit//test-output/screenshots//_Click ERROR_01_25_2021 09_50_01.png
+09:50:14.656 INFO  base.CustomDriver -Send Keys on element :: User email with data :: admin@yourstore.com
+09:50:14.744 INFO  base.CustomDriver -Send Keys on element :: User Password with data :: admin
+09:50:23.448 INFO  base.CustomDriver -Clicked On :: Login Button
+09:50:24.865 INFO  base.CheckPoint -Clearing Results Hash Map
+09:50:25.026 INFO  base.CustomDriver -Clicked On :: Customers Menu
+09:50:29.504 INFO  base.CustomDriver -Clicked On :: Customers Menu Item
+09:50:29.508 INFO  utilities.Util -Actual Text From Web Application UI   --> : Customers / nopCommerce administration
+09:50:29.508 INFO  utilities.Util -Expected Text From Web Application UI --> : Customers / nopCommerce administration
+09:50:29.514 INFO  utilities.Util -### Verification MATCHED !!!
+09:50:29.514 INFO  base.CheckPoint -customerpage.Customer Page Verification :-> PASS
+09:50:32.826 INFO  base.CustomDriver -Clicked On :: Add New Button
+09:50:32.985 INFO  base.CustomDriver -Send Keys on element :: Customer Email with data :: apple212@gmail.com
+09:50:33.131 INFO  base.CustomDriver -Send Keys on element :: Customer Password with data :: fhe45644
+09:50:33.271 INFO  base.CustomDriver -Send Keys on element :: First Name with data :: Quincy
+09:50:33.400 INFO  base.CustomDriver -Send Keys on element :: Last Name with data :: Larson
+09:50:33.484 INFO  base.CustomDriver -Clicked On :: Male
+09:50:33.671 INFO  base.CustomDriver -Send Keys on element :: Company Name with data :: REDDINGTON
+09:50:39.009 INFO  base.CustomDriver -Clicked On :: Save Button
+09:50:39.054 INFO  utilities.Util -Actual Text From Web Application UI   --> : ×
+The new customer has been added successfully.
+09:50:39.054 INFO  utilities.Util -Expected Text From Web Application UI --> : has been added successfully
+09:50:39.054 INFO  utilities.Util -### Verification Contains !!!
+09:50:39.054 INFO  base.CheckPoint -customeradded.New Customer Verification :-> PASS
+09:50:39.054 INFO  base.CheckPoint -Test Method Successful
+09:50:39.054 INFO  base.CheckPoint -Test Method Successful
+09:50:40.161 ERROR base.CustomDriver -Cannot click on :: Logout Link
+09:50:40.161 INFO  utilities.Util -Date and Time :: 01_25_2021 09_50_40
+09:50:40.538 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\Osma Bin Sarfraz\IdeaProjects\LetsKodeit//test-output/screenshots//_Click ERROR_01_25_2021 09_50_40.png
+15:01:44.565 INFO  utilities.Util -Current Date and Time :: 01_25_2021 15_01_44
+15:01:44.581 INFO  utilities.ExtentManager -*******************Report Path****************************
+15:01:44.581 INFO  utilities.ExtentManager -C:\Users\Osma Bin Sarfraz\IdeaProjects\LetsKodeit\test-output\reports\AutomationReport_01_25_2021 15_01_44.html
+15:01:44.581 INFO  utilities.ExtentManager -*******************Report Path****************************
+15:01:44.847 INFO  base.TestListeners -onStart -> Test Tag Name: C:/Users/Osma Bin Sarfraz/IdeaProjects/LetsKodeit
+15:01:44.847 INFO  base.TestListeners -These methods will be executed in this <test> tag
+15:01:44.847 INFO  base.TestListeners -testAddCustomers
+15:01:44.847 INFO  base.TestListeners -testSearchSales
+15:01:59.886 INFO  base.CustomDriver -Send Keys on element :: User email with data :: admin@yourstore.com
+15:01:59.982 INFO  base.CustomDriver -Send Keys on element :: User Password with data :: admin
+15:02:08.664 INFO  base.CustomDriver -Clicked On :: Login Button
+15:02:08.680 INFO  base.CheckPoint -Clearing Results Hash Map
+15:02:08.744 INFO  base.CustomDriver -Clicked On :: Sales Menu
+15:02:10.894 INFO  base.CustomDriver -Clicked On :: Order Menu Item
+15:02:11.070 INFO  base.CustomDriver -Clicked On :: Search Button
+15:02:11.660 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testSearchSales
+15:02:14.852 INFO  base.CustomDriver -Clicked On :: Logout Link
+15:02:27.405 INFO  base.CustomDriver -Send Keys on element :: User email with data :: admin@yourstore.com
+15:02:27.501 INFO  base.CustomDriver -Send Keys on element :: User Password with data :: admin
+15:02:38.916 INFO  base.CustomDriver -Clicked On :: Login Button
+15:02:41.020 INFO  base.CheckPoint -Clearing Results Hash Map
+15:02:41.110 INFO  base.CustomDriver -Clicked On :: Customers Menu
+15:02:44.369 INFO  base.CustomDriver -Clicked On :: Customers Menu Item
+15:02:44.409 INFO  utilities.Util -Actual Text From Web Application UI   --> : Customers / nopCommerce administration
+15:02:44.409 INFO  utilities.Util -Expected Text From Web Application UI --> : Customers / nopCommerce administration
+15:02:44.409 INFO  utilities.Util -### Verification MATCHED !!!
+15:02:44.409 INFO  base.CheckPoint -customerpage.Customer Page Verification :-> PASS
+15:02:48.629 INFO  base.CustomDriver -Clicked On :: Add New Button
+15:02:48.819 INFO  base.CustomDriver -Send Keys on element :: Customer Email with data :: apple212@gmail.com
+15:02:48.962 INFO  base.CustomDriver -Send Keys on element :: Customer Password with data :: fhe45644
+15:02:49.129 INFO  base.CustomDriver -Send Keys on element :: First Name with data :: Quincy
+15:02:49.261 INFO  base.CustomDriver -Send Keys on element :: Last Name with data :: Larson
+15:02:49.324 INFO  base.CustomDriver -Clicked On :: Male
+15:02:49.461 INFO  base.CustomDriver -Send Keys on element :: Company Name with data :: REDDINGTON
+15:02:52.367 INFO  base.CustomDriver -Clicked On :: Save Button
+15:02:52.409 INFO  utilities.Util -Actual Text From Web Application UI   --> : ×
+The new customer has been added successfully.
+15:02:52.409 INFO  utilities.Util -Expected Text From Web Application UI --> : has been added successfully
+15:02:52.409 INFO  utilities.Util -### Verification Contains !!!
+15:02:52.409 INFO  base.CheckPoint -customeradded.New Customer Verification :-> PASS
+15:02:52.409 INFO  base.CheckPoint -Test Method Successful
+15:02:52.409 INFO  base.CheckPoint -Test Method Successful
+15:02:52.409 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testAddCustomers
+15:02:53.548 ERROR base.CustomDriver -Cannot click on :: Logout Link
+15:02:53.548 INFO  utilities.Util -Current Date and Time :: 01_25_2021 15_02_53
+15:02:53.998 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\Osma Bin Sarfraz\IdeaProjects\LetsKodeit//test-output/screenshots//_Click ERROR_01_25_2021 15_02_53.png
+15:02:54.744 INFO  base.TestListeners -onFinish -> Test Tag Name: C:/Users/Osma Bin Sarfraz/IdeaProjects/LetsKodeit

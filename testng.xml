@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.letskodeit.base.TestListeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Osma Bin Sarfraz/IdeaProjects/LetsKodeit">
+        <classes>
+                <class name="com.letskodeit.testcases.SearchSalesTest"/>
+                <class name="com.letskodeit.testcases.AddCustomerTest"/>
+        </classes>
+    </test>
+</suite>
